@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ayush+Verma+%F0%9F%91%8B;SDET-2+%7C+Backend+%26+Microservices+QA;API+%26+Mobile+Test+Automation+Architect;Building+GenAI+%26+Agentic+QA+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ayush+Verma+%F0%9F%91%8B;SDET-2+%7C+Backend+%26+Microservices+QA;API+%26+Mobile+Test+Automation+Engineer;Building+GenAI+%26+Agentic+QA+Workflows" alt="Typing SVG" />
 </div>
 
 <!-- Social & Contact Badges -->
@@ -74,14 +74,3 @@ I am an **SDET-2** with **4+ years of experience** driving quality engineering f
 </p>
 
 ---
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayush-verma-7080&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-verma-7080&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayush-verma-7080&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
