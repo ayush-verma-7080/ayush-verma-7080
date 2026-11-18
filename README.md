@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:3b82f6&height=200&section=header&text=Ayush%20Verma&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET-2%20%7C%20Backend%2C%20API%20%26%20Mobile%20Test%20Automation%20%7C%20GenAI%20QA&descSize=16&descAlignY=62" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ayush+Verma+%F0%9F%91%8B;SDET-2+%7C+Backend+%26+Microservices+QA;API+%26+Mobile+Test+Automation+Architect;Building+GenAI+%26+Agentic+QA+Workflows" alt="Typing SVG" />
 </div>
 
 <!-- Social & Contact Badges -->
@@ -11,29 +11,29 @@
   <a href="mailto:ayushverma7080@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ayushsdet&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ayush-verma-7080&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
 
 ### 👨‍💻 About Me
 
-I am an **SDET-2** with **4+ years of experience** driving quality engineering for distributed backend microservices, high-throughput APIs, and mobile applications. At **Rapido**, I own end-to-end test architecture, automation frameworks, and release quality gates for core **Pricing microservices** that handle real-time fare calculations, serviceability, surges and dynamic pricing rules at scale.
+I am an **SDET-2** with **4+ years of experience** driving quality engineering for distributed backend microservices, high-throughput APIs, and mobile applications. At **Rapido**, I own end-to-end test architecture, automation frameworks, and release quality gates for core **Pricing microservices** that handle real-time fare calculations, serviceability, and dynamic pricing rules at scale.
 
-- 🚀 **Pricing Engine Revamp:** Led end-to-end QA and automated fare-validation tooling for Rapido's core **Node.js → Golang** Pricing Service migration—helping cut p95 fare calculation latency by **~50%** and shrink infrastructure footprint from **400+ to ~85 pods**.
-- ⚡ **Dynamic Pricing & Fare Recalculations:** Validated real-time pricing engines—including surges, boosters, customer & captain bidding, tips, and complex mid-trip fare recalculations triggered by route changes, traffic delays, extra trip time, or drop-location updates.
-- 🛠️ **Internal Platforms & Config Safety:** Tested critical internal platforms—including **Config Manager, Rate Card, Serviceability, and Service Config** dashboards and APIs—ensuring maker-checker approval workflows and zero-downtime config rollouts.
-- 🧪 **API & Mobile Automation:** Engineered modular API automation suites (**Java, REST Assured, Retrofit, TestNG**) achieving **80%+ coverage** on core services, alongside **Maestro** & **Appium 2.x** mobile automation for weekly Android & iOS releases impacting **20M+ users** and **8M+ monthly rides**.
-- 📊 **CI/CD & Production Observability:** Integrated automated quality gates into CI/CD pipelines, built database verification utilities, and owned staging/prod release cycles and fast RCA debugging using **Grafana, Loki logs, and AI agents**.
-- 🤖 **GenAI & Agentic QA:** Building reusable **GenAI Skills** and LLM-powered agentic workflows (using **Cursor AI** & **ChatGPT**) to transform business requirements into structured test plans, auto-generate test cases, and accelerate debugging.
-- 📂 **Open-Source Frameworks:** Actively building modular [REST Assured API](https://github.com/ayushsdet/RestAssured-Framework) and [Appium 2.x Mobile](https://github.com/ayushsdet/Appium-Framework) test automation frameworks.
+- 🏗️ **Microservices & Backend Quality:** Architecting contract, integration, and end-to-end test suites across distributed **Golang & Java microservices**, validating event-driven **Kafka** flows, **Redis** caching layers, and **MongoDB/MySQL** data consistency.
+- 🚀 **System Migrations & Performance Validation:** Led QA strategy and automated shadow/parity comparison tooling for Rapido's **Node.js → Golang** Pricing Engine migration—cutting p95 latency by **~50%** and shrinking pod footprint from **400+ to ~85 pods**.
+- 🧪 **Scalable Test Automation Frameworks:** Building modular, maintainable API automation frameworks (**Java, REST Assured, Retrofit, TestNG**) with **80%+ service coverage**, alongside **Maestro & Appium 2.x** mobile regression suites for weekly releases impacting **20M+ users** and **8M+ monthly rides**.
+- ⚙️ **CI/CD & Production Observability:** Embedding automated smoke and regression gates into CI/CD pipelines, managing staging/prod release sign-offs, and driving fast root-cause analysis (RCA) using **Grafana dashboards and Loki logs**.
+- 🤖 **AI-Assisted & Agentic QA:** Leveraging **Cursor AI**, **MCP integrations**, and reusable **GenAI Skills** to convert PRDs into structured test plans, accelerate test case generation, and automate failure triage.
+- 📂 **Open-Source Frameworks:** Actively building modular [REST Assured API](https://github.com/ayush-verma-7080/RestAssured-Framework) and [Appium 2.x Mobile](https://github.com/ayush-verma-7080/Appium-Framework) test automation frameworks.
 
 ---
 
-
 ### 📬 Let's Connect
-- 💼 **LinkedIn:** [linkedin.com/in/ayushverma49](https://www.linkedin.com/in/ayushverma49)[cite: 1, 5]
-- 📧 **Email:** [ayushverma7080@gmail.com](mailto:ayushverma7080@gmail.com)[cite: 1, 2, 5]
+- 💼 **LinkedIn:** [linkedin.com/in/ayushverma49](https://www.linkedin.com/in/ayushverma49)
+- 📧 **Email:** [ayushverma7080@gmail.com](mailto:ayushverma7080@gmail.com)
+
+---
 
 ### 🛠️ Tech Stack & Automation Toolkit
 
@@ -78,24 +78,10 @@ I am an **SDET-2** with **4+ years of experience** driving quality engineering f
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayushsdet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsdet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayush-verma-7080&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-verma-7080&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushsdet&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=ayush-verma-7080&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
-<!--
-**ayushsdet/ayushsdet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
