@@ -18,17 +18,18 @@
 
 ### 👨‍💻 About Me
 
-I am an **SDET-2** with **4+ years of experience** specializing in backend testing, API automation, and microservices validation[cite: 2]. At **Rapido**, I work on the core **Pricing team**, ensuring the reliability and accuracy of high-throughput backend systems that power ride fare estimates, point-to-point serviceability, and real-time pricing rules[cite: 2].
+I am an **SDET-2** with **4+ years of experience** driving quality engineering for distributed backend microservices, high-throughput APIs, and mobile applications. At **Rapido**, I own end-to-end test architecture, automation frameworks, and release quality gates for core **Pricing microservices** that handle real-time fare calculations, serviceability, surges and dynamic pricing rules at scale.
 
-- 🚀 **Pricing Engine Revamp:** Led end-to-end QA and automated fare-validation tooling for Rapido's core **Node.js → Golang** Pricing Service migration—helping cut p95 fare calculation latency by **~50%** and shrink infrastructure footprint from **400+ to ~85 pods**[cite: 2].
-- ⚡ **Dynamic Pricing & Fare Recalculations:** Validated real-time pricing engines—including surges, boosters, customer & captain bidding, tips, and complex mid-trip fare recalculations triggered by route changes, traffic delays, extra trip time, or drop-location updates[cite: 2].
-- 🛠️ **Internal Platforms & Config Safety:** Tested critical internal platforms—including **Config Manager, Rate Card, Serviceability, and Service Config** dashboards and APIs—ensuring maker-checker approval workflows and zero-downtime config rollouts[cite: 2].
-- 🧪 **API & Mobile Automation:** Engineered modular API automation suites (**Java, REST Assured, Retrofit, TestNG**) achieving **80%+ coverage** on core services, alongside **Maestro** & **Appium 2.x** mobile automation for weekly Android & iOS releases impacting **20M+ users** and **8M+ monthly rides**[cite: 1, 2].
-- 📊 **CI/CD & Production Observability:** Integrated automated quality gates into CI/CD pipelines, built database verification utilities, and owned staging/prod release cycles and fast RCA debugging using **Grafana, Loki logs, and AI agents**[cite: 2].
-- 🤖 **GenAI & Agentic QA:** Building reusable **GenAI Skills** and LLM-powered agentic workflows (using **Cursor AI** & **ChatGPT**) to transform business requirements into structured test plans, auto-generate test cases, and accelerate debugging[cite: 2].
-- 📂 **Open-Source Frameworks:** Actively building modular [REST Assured API](https://github.com/ayushsdet/RestAssured-Framework) and [Appium 2.x Mobile](https://github.com/ayushsdet/Appium-Framework) test automation frameworks[cite: 1].
+- 🚀 **Pricing Engine Revamp:** Led end-to-end QA and automated fare-validation tooling for Rapido's core **Node.js → Golang** Pricing Service migration—helping cut p95 fare calculation latency by **~50%** and shrink infrastructure footprint from **400+ to ~85 pods**.
+- ⚡ **Dynamic Pricing & Fare Recalculations:** Validated real-time pricing engines—including surges, boosters, customer & captain bidding, tips, and complex mid-trip fare recalculations triggered by route changes, traffic delays, extra trip time, or drop-location updates.
+- 🛠️ **Internal Platforms & Config Safety:** Tested critical internal platforms—including **Config Manager, Rate Card, Serviceability, and Service Config** dashboards and APIs—ensuring maker-checker approval workflows and zero-downtime config rollouts.
+- 🧪 **API & Mobile Automation:** Engineered modular API automation suites (**Java, REST Assured, Retrofit, TestNG**) achieving **80%+ coverage** on core services, alongside **Maestro** & **Appium 2.x** mobile automation for weekly Android & iOS releases impacting **20M+ users** and **8M+ monthly rides**.
+- 📊 **CI/CD & Production Observability:** Integrated automated quality gates into CI/CD pipelines, built database verification utilities, and owned staging/prod release cycles and fast RCA debugging using **Grafana, Loki logs, and AI agents**.
+- 🤖 **GenAI & Agentic QA:** Building reusable **GenAI Skills** and LLM-powered agentic workflows (using **Cursor AI** & **ChatGPT**) to transform business requirements into structured test plans, auto-generate test cases, and accelerate debugging.
+- 📂 **Open-Source Frameworks:** Actively building modular [REST Assured API](https://github.com/ayushsdet/RestAssured-Framework) and [Appium 2.x Mobile](https://github.com/ayushsdet/Appium-Framework) test automation frameworks.
 
 ---
+
 
 ### 📬 Let's Connect
 - 💼 **LinkedIn:** [linkedin.com/in/ayushverma49](https://www.linkedin.com/in/ayushverma49)[cite: 1, 5]
